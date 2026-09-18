@@ -1,1 +1,2 @@
-
+Week 1  
+General goals when considering creating datasets is keeping things in a consistent manner to avoid issues in classification. This could also possibly be expanded by having data that may be hesitant such as specific dates be seperated into different values with only 1 key value needed as a minimum and further detailing done with optional elements similar to SQL primary key and secondary key interactions.
