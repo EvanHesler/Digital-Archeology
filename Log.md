@@ -18,5 +18,8 @@ comments:  Some difficulty I had was expressing dates when I was unsure of them.
   
   
 Date: 2026-09-14           
-Topic: PaddleOCR       
-content:    
+Topic: Kobotoolbox       
+Content:    You can create a new section by clicking on new and uploading an Excel spreadsheet  
+It can be previewed by clicking the eye in the top right corner   
+When using Excel, it uses fields with predetermined layouts, which help with formatting, such as geopoint, adding geolocation aspects, as well as a map interface to interact with    
+The name seems to be the thing that determines question content or display, with the label then commonly being the same text; however, it is only a label.  
