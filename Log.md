@@ -12,9 +12,9 @@ It can be previewed by clicking the eye in the top right corner
 When using Excel, it uses fields with predetermined layouts, which help with formatting, such as geopoint, adding geolocation aspects, as well as a map interface to interact with    
 The name seems to be the thing that determines question content or display, with the label then commonly being the same text; however, it is only a label.  
 
-Date: 2026-10-01  
-Topic: GIS
-Content:
+Date: 2026-10-01    
+Topic: GIS  
+Content:  
 GIS is a mapping layer software, its similar to things like google maps, which uses GPS. 
 Main components are the visual representation (actual map), a table for data (coordinates, names, values), and analysis tools.  
 
