@@ -1,19 +1,7 @@
 Date: 2026-09-14         
 Topic: Introduction               
 Content: getting information about the course and creating an Excel spreadsheet about the history of success with banana bread baking. Class content as github creation and usage along with course outline information.  
-Date,Quantity,# bannanas,edible,type,cinnamon (tsp)  
-2020,6,3,1,Loaf,0  
-2020-03,6,3,1,Loaf,0    
-2020-05-12,6,3,1,Loaf,0  
-2022-05-13,6,3,1,Loaf,0  
-2025-08-20,17,3,1,muffin,1  
-2026-01-13,18,0,0,muffin,1  
-2026-01-14,18,3,1,muffin,0  
-2026-02-13,18,0,0,muffin,1  
-2026-03-08,18,3,1,muffin,1  
-2026-08-28,23,4,1,muffin,1  
-2026-09-17,24,3,1,muffin,0  
-comments:  Some difficulty I had was expressing dates when I was unsure of them. I elected to keep the same format but omit the date specifics with year being the only truly necessary one. A second isssue I seem to have is with the formatting rules of github and how it presents itself outside of editing mode, however it seems putting 2 spaces after each line causes the next to appear on a different line
+Some difficulty I had was expressing dates when I was unsure of them. I elected to keep the same format but omit the date specifics with year being the only truly necessary one. A second isssue I seem to have is with the formatting rules of github and how it presents itself outside of editing mode, however it seems putting 2 spaces after each line causes the next to appear on a different line
   
   
   
@@ -23,3 +11,26 @@ Content:    You can create a new section by clicking on new and uploading an Exc
 It can be previewed by clicking the eye in the top right corner   
 When using Excel, it uses fields with predetermined layouts, which help with formatting, such as geopoint, adding geolocation aspects, as well as a map interface to interact with    
 The name seems to be the thing that determines question content or display, with the label then commonly being the same text; however, it is only a label.  
+
+Date: 2026-10-01  
+Topic: GIS
+Content:
+GIS is a mapping layer software, its similar to things like google maps, which uses GPS. 
+Main components are the visual representation (actual map), a table for data (coordinates, names, values), and analysis tools.  
+
+Each dataset acts like a layer which can be viewed as a map. A complete map is all the layers compressed into one. Parcels = boundary lines, Elevation, land usage, streets, people.  
+GIS layers = both are pretty similar but raster seems to be more like actual images rather than simply lines and polygons.  
+Vector = point and lines and polygon geomtry .  
+Raster = continuous grid made of pixels. This can have more details.  
+  
+Use in digital archeology = can be used for documenting where things were found in a vertical and layer level description.   Can also be used for easier visualization of things found in the same layer or its possible relevance through proximity.   This information can be further used to answer questions about movement, distribution, possible visibility, and visualizing   change over time.   
+Archeological layers = points (artifacts, samples), lines (walls, paths), polygons (structures), rasters (maps imagery, elevation), attributes (materials, date, type condition, theories)  
+Order = organize data by location, collect site data, ensure accuracy, spatial analysis, interpretations, and communication through maps and documentation.]    
+The multiple layers can also cause a issue when it doesnt overlap correctly  
+Coordinate systems = using x and y for a geographical position. They can develop distortion because of area, shape, distance, and direction, putting 3d to rs end up skewing things.  
+ 
+QGIS = Quantum Geographic Information System - software fir geospatial analysis  
+Geospatial analysis for identifying relationships between entities or with the combination of entities. For example the   total cost of time for a path, correlations of locations to environment, artifcat density to person.  
+Clip = cuts out all entities within the selected area  
+Buffer = makes a outline and tells you whats within the outline  
+Least cost analysis = calculated easiest path based on factors  
