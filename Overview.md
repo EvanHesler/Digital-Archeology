@@ -8,6 +8,9 @@ Week 2
 
   Week 3
   Mapping software can help with large-scale visualization to be able to determine connections from multiple perspectives. There are many tools to help determine aspects like proximity, ease of travel, and elevation information in a malleable manner.
+  Regarding the ethics of digital archeology, it seems the line is unclear and is currently at the stage in which crossing a line invites the discussion of it as it seems to say in https://doi.org/10.5334/bck.j "Failure to meet
+an organization’s code of ethics has few, if any, consequences under an aspira-
+tional system" with both ethical documents being unable to draw clear lines with solid examples.
 
   
 
