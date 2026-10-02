@@ -34,3 +34,6 @@ Geospatial analysis for identifying relationships between entities or with the c
 Clip = cuts out all entities within the selected area  
 Buffer = makes a outline and tells you whats within the outline  
 Least cost analysis = calculated easiest path based on factors  
+_________readings
+The ethics governing digital archaeology are vague and often unpunished under aspirational ethics. Cultural ethics are generally a different matter.
+seriation is the effort of using expectations of chronological comparison through a structure to determine time relation. Used in cases where scientific dating cant be used or simply as a easier use.
