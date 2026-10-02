@@ -29,11 +29,11 @@ Order = organize data by location, collect site data, ensure accuracy, spatial a
 The multiple layers can also cause a issue when it doesnt overlap correctly  
 Coordinate systems = using x and y for a geographical position. They can develop distortion because of area, shape, distance, and direction, putting 3d to rs end up skewing things.  
  
-QGIS = Quantum Geographic Information System - software fir geospatial analysis  
+QGIS = Quantum Geographic Information System - software for geospatial analysis  
 Geospatial analysis for identifying relationships between entities or with the combination of entities. For example the   total cost of time for a path, correlations of locations to environment, artifcat density to person.  
 Clip = cuts out all entities within the selected area  
-Buffer = makes a outline and tells you whats within the outline  
+Buffer = makes a outline and tells you whats within the outline. This can be used with the original outline to create a clearer outline of a underlying layer and to determine any items in the area around it through overlap comparison.  
 Least cost analysis = calculated easiest path based on factors  
-_________readings
-The ethics governing digital archaeology are vague and often unpunished under aspirational ethics. Cultural ethics are generally a different matter.
-seriation is the effort of using expectations of chronological comparison through a structure to determine time relation. Used in cases where scientific dating cant be used or simply as a easier use.
+_________readings  
+The ethics governing digital archaeology are vague and often unpunished under aspirational ethics. Cultural ethics are generally a different matter. Overall, however, the ever-changing technology seems to not have a clear line drawn through its use to determine a solid ethical boundary.    
+Seriation is the effort of using expectations of chronological comparison through a structure to determine time relation. Used in cases where scientific dating can't be used or simply as an easier method.  
