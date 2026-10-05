@@ -37,3 +37,28 @@ Least cost analysis = calculated easiest path based on factors
 _________readings  
 The ethics governing digital archaeology are vague and often unpunished under aspirational ethics. Cultural ethics are generally a different matter. Overall, however, the ever-changing technology seems to not have a clear line drawn through its use to determine a solid ethical boundary.    
 Seriation is the effort of using expectations of chronological comparison through a structure to determine time relation. Used in cases where scientific dating can't be used or simply as an easier method.  
+
+
+Date: 2026-10-05    
+Topic: Billings Bridge  
+Content:  
+2 gravestone 
+Denomination ??
+Condition sound but disabled
+Condition incruption  mainly legible
+Materials  granite 
+kerbs none 
+Table and chest none
+crosses none
+Headstone  slightly curved top?
+wall monument none
+Sculpture none 
+Text “in loving memory of Elizabeth Cumming wife of Issac Brouse Died July 25 1932 AE 74 yrs  Issac Brouse died July 25 1932 AE 193 yrs
+Text panel shape 8100
+Definition technique flat surface
+Sans serif font
+
+There is a frequent issue with classifying using this method due to some aspects not being a clear option, such as the denomination and damage done to the gravestone, preventing the full understanding required to decide on a proper label for it
+For scanning a device to get a 3d model of it, the machine seemed to no longer be able to load, but it did seem slightly more usable in a more shaded environment.
+
+
