@@ -27,4 +27,17 @@ Date: 2026-09-14
 Topic: GIS  
 Content  there was no coding involved in the GIS workshop and was instead just about adding layers based on data points ranging from river outlines, mapping outlining, clipping, and overlapping with its general notes held in the log file.
 
+Date: 2026-09-14     
+Topic: Google collab  
+Content:  Initial information  was geometry context and earliest date however context was just numbers. There was also grave information and comments to describe locations      
+the line of code "linlithgow_map1 = linlithgow_burials.plot(column='EARLIEST_DATE', categorical = True, cmap='Accent', figsize=(15, 8), legend = True);" seems to use the geometry variable to create a map  
+The site suggests swapping variables around; however, the variable type seems a bit unclear, along with the shortened names, making it hard to guess what they do or what the word may mean such as autumn meaning anything from  
+being found in autumn or that being the season of the burial.  
+It seems to be a coding language that doesnt use a print statement and just uses the name itself.  
+linlithgow_burials.loc[linlithgow_burials['LATEST_DATE']<1400] means from the linlithglow file its selecting the rows (loc) under column name latest date which are before the latest date of 1400. More options are capable by putting boolean operators beside each condition
+The burials usually had male and female together likely indicating the family or relatives were buried together (as in in one place. not all at once).
+infant_burials = linlithgow_burials.loc[linlithgow_burials['AGE_AT_DEATH'].isin(['INFANT (0-5)'])]    infant_burials.groupby('GRAVE_SHAPE').count()    this code can be used to do math on the results of a search.
+pre1500_both= pre1500.loc[pre1500['context'].isin([195,189]) = specific selection using the primary key conetxt. In this instance the pre1500 is a dataset that the code is checking from
+
+
 
