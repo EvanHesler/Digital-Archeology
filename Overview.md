@@ -12,5 +12,8 @@ Week 2
 an organization’s code of ethics has few, if any, consequences under an aspira-
 tional system" with both ethical documents being unable to draw clear lines with solid examples.
 
+Week 4  
+You can use a combination of materials, both basic and complex, to map a site (paper and measuring tape to LiDAR). Biases can also exist in datasets through both classification and organizational labelling.
+
   
 
