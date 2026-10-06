@@ -60,5 +60,9 @@ Sans serif font
 
 There is a frequent issue with classifying using this method due to some aspects not being a clear option, such as the denomination and damage done to the gravestone, preventing the full understanding required to decide on a proper label for it
 For scanning a device to get a 3d model of it, the machine seemed to no longer be able to load, but it did seem slightly more usable in a more shaded environment.
+____________________Readings  
+Seems to declare the art of drawing to pottery where practice makes perfect. Questioning of wether original archeological practices and current ones still carry a bias from their creation which could exclude details like gender, sexuality, ability, class, etc. (Taylor Francis reading)  
+
+
 
 
