@@ -11,6 +11,7 @@ Content:    You can create a new section by clicking on new and uploading an Exc
 It can be previewed by clicking the eye in the top right corner   
 When using Excel, it uses fields with predetermined layouts, which help with formatting, such as geopoint, adding geolocation aspects, as well as a map interface to interact with    
 The name seems to be the thing that determines question content or display, with the label then commonly being the same text; however, it is only a label.  
+There are many ways to consider sets of data, such as through an economic, practical, or usage based lense to draw information out of and categorize.
 
 Date: 2026-10-01    
 Topic: GIS  
