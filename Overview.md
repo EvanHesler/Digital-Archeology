@@ -5,6 +5,7 @@ Week 2
   Desire lines refer to when people make their own path through an area.    
   Some considerations for PDAP can be architechtural choice, human effects, human reamins (litter)  
   Archaeology can be considered the study of duration rather than remains by comparing similarities across distances of time  
+  The PDF-to-text-based code seemed to work well enough but struggled with unfamilar or uncommon characters like Greek symbols and matricies, seems to be appropriate for solid text more commonly
 
   Week 3
   Mapping software can help with large-scale visualization to be able to determine connections from multiple perspectives. There are many tools to help determine aspects like proximity, ease of travel, and elevation information in a malleable manner.
