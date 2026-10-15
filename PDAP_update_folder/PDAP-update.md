@@ -15,3 +15,6 @@ Picnic tables near the edge of the forest had less pines despite same quantity o
 the path between Zone 3-4 had the most damaged amount of grass    
 The images were taken October 3rd 15:00 however are not currently in Github due to it being around 15 photos meant for data gathering.
 
+
+Code attempt 1:  
+Currently, there are issues regarding creating a PDF result and the locations still need to be plotted onto the park map jpg
