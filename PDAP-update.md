@@ -12,5 +12,6 @@ Zone 4 large parties clear litter left behind
 
 Notes:  
 Picnic tables near the edge of the forest had less pines despite same quantity of pine needles on the ground nearby   
-the path between Zone 3-4 had the most damaged amount of grass  
+the path between Zone 3-4 had the most damaged amount of grass    
+The images were taken October 3rd 15:00 however are not currently in Github due to it being around 15 photos meant for data gathering.
 
