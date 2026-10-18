@@ -62,7 +62,8 @@ Sans serif font
 There is a frequent issue with classifying using this method due to some aspects not being a clear option, such as the denomination and damage done to the gravestone, preventing the full understanding required to decide on a proper label for it
 For scanning a device to get a 3d model of it, the machine seemed to no longer be able to load, but it did seem slightly more usable in a more shaded environment.
 ____________________Readings  
-Dot or area blocks are most common for use on maps. Seems to declare the art of drawing to pottery where practice makes perfect. Questioning of wether original archeological practices and current ones still carry a bias from their creation which could exclude details like gender, sexuality, ability, class, etc. (Taylor Francis reading, Haciguzeller)     
+Dot or area blocks are most common for use on maps. Seems to declare the art of drawing to pottery where practice makes perfect. Questioning of wether original archeological practices and current ones still carry a bias from their creation which could exclude details like gender, sexuality, ability, class, etc. (Taylor Francis reading, Haciguzeller)    
+reading 2: map quality is naturally subject to learned convention and the importance of it being present is more improtant than other aspects. Consdiering a map as a performance apperantly assists in negating biases. A second focus is treating humans and non humans as seperate allowing connections between the 2 to be done during analysis.The third focus seems to be taking into prior consideration with map experience as a "ethno-methodology" equating it to experience without implmentation. The fourth focus is recognizing that multiple perspectives exist". A comment on how to analyze later on comments on how using a light imagination can be used as proxies for theories to pursue when analyzing a map, such as following a person through what they expect the map may be.  
 
 
 
