@@ -16,19 +16,19 @@ Date,Quantity,# bannanas,edible,type,cinnamon (tsp)
 comments: Some difficulty I had was expressing dates when I was unsure of them. I elected to keep the same format but omit the date specifics with year being the only truly necessary one. 
 A second isssue I seem to have is with the formatting rules of github and how it presents itself outside of editing mode, however it seems putting 2 spaces after each line causes the next to appear on a different line  
 
-Date: 2026-09-14  
+Date: 2026-09-21  
 Topic: Kobotoolbox  
 Content: You can create a new section by clicking on new and uploading an Excel spreadsheet  
 It can be previewed by clicking the eye in the top right corner  
 When using Excel, it uses fields with predetermined layouts, which help with formatting, such as geopoint, adding geolocation aspects, as well as a map interface to interact with  
 The name seems to be the thing that determines question content or display, with the label then commonly being the same text; however, it is only a label.  
 
-Date: 2026-09-14   
+Date: 2026-10-3   
 Topic: GIS  
 Content  there was no coding involved in the GIS workshop and was instead just about adding layers based on data points ranging from river outlines, mapping outlining, clipping, and overlapping with its general notes held in the log file.
 Also due to the different machine no files were saved and instead an image of the ontario outline along with the rivers is in the image folder.  
 
-Date: 2026-09-14     
+Date: 2026-10-05     
 Topic: Google collab  
 Content:  Initial information  was geometry context and earliest date however context was just numbers. There was also grave information and comments to describe locations      
 the line of code "linlithgow_map1 = linlithgow_burials.plot(column='EARLIEST_DATE', categorical = True, cmap='Accent', figsize=(15, 8), legend = True);" seems to use the geometry variable to create a map  
