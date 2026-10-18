@@ -39,6 +39,7 @@ linlithgow_burials.loc[linlithgow_burials['LATEST_DATE']<1400] means from the li
 The burials usually had male and female together likely indicating the family or relatives were buried together (as in in one place. not all at once).
 infant_burials = linlithgow_burials.loc[linlithgow_burials['AGE_AT_DEATH'].isin(['INFANT (0-5)'])]    infant_burials.groupby('GRAVE_SHAPE').count()    this code can be used to do math on the results of a search.
 pre1500_both= pre1500.loc[pre1500['context'].isin([195,189]) = specific selection using the primary key conetxt. In this instance the pre1500 is a dataset that the code is checking from
+Note: We were not able to use the measurements for the graveyard, only the Lidar machine.
 
 
 
