@@ -21,6 +21,6 @@ Currently, there are issues regarding creating a PDF result and the locations st
 
 
 
-Brainstorming:  
-might be better to just plot the points in SQL then use the GIS workshop application to format a map to idenity any additional ideas  
+Brainstorming:                  
+Might be better to just plot the points in SQL then use the GIS workshop application to format a map to idenity any additional ideas  
 Thesis could be about classification on which areas are best for which event taking into consideration how busy somthing is, intention, current usage, and acsess proximity (parking lot, road acsess, trail acsess)
