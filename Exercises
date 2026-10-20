@@ -14,14 +14,14 @@ Date,Quantity,# bannanas,edible,type,cinnamon (tsp)
 2026-08-28,23,4,1,muffin,1  
 2026-09-17,24,3,1,muffin,0  
 comments: Some difficulty I had was expressing dates when I was unsure of them. I elected to keep the same format but omit the date specifics with year being the only truly necessary one. 
-A second isssue I seem to have is with the formatting rules of github and how it presents itself outside of editing mode, however it seems putting 2 spaces after each line causes the next to appear on a different line  
+A second isssue I seem to have is with the formatting rules of github and how it presents itself outside of editing mode, however it seems putting 2 spaces after each line causes the next to appear on a different line  ParkClassification_KoboToolbox
 
 Date: 2026-09-21  
 Topic: Kobotoolbox  
 Content: You can create a new section by clicking on new and uploading an Excel spreadsheet  
 It can be previewed by clicking the eye in the top right corner  
 When using Excel, it uses fields with predetermined layouts, which help with formatting, such as geopoint, adding geolocation aspects, as well as a map interface to interact with  
-The name seems to be the thing that determines question content or display, with the label then commonly being the same text; however, it is only a label.  
+The name seems to be the thing that determines question content or display, with the label then commonly being the same text; however, it is only a label.  The results of a possible form for my PDAP is in the images folder under
 
 
 Date: 2026-10-3   
@@ -44,7 +44,7 @@ Text panel shape 8100
 Definition technique flat surface    
 Sans serif font      
 
-The LiDAR overall was not perceptible in detecting great details while scanning. Howeber the grave was slightly visible in terms of shape during the
+Overall, the LiDAR was not effective at detecting fine details during scanning. Howeber the grave was slightly visible in terms of shape during the
 first scan with the time spent scanning around not appearing to have additional impact first the few moments. I was unable to use the more in 
 depth laser scanner on the gravestone shards but the results were influenced by light, with a darker area providing clearer readings.
 
