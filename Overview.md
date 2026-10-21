@@ -15,7 +15,8 @@ tional system" with both ethical documents being unable to draw clear lines with
   Gis is also a valuable mapping aspect to show both large scale area and correlation between their details when added to a map
 
 Week 4  
-You can use a combination of materials, both basic and complex, to map a site (paper and measuring tape to LiDAR). Biases can also exist in datasets through both classification and organizational labelling.
+You can use a combination of materials, both basic and complex, to map a site (paper and measuring tape to LiDAR). Biases can also exist in datasets through both classification and organizational labelling. 
+Reading connections: the capability to approach this as we were, primarily as a site both seems to go with and against the readigns of this week. One of the points of the reading of different types of mapping is to consider the
 
   
 
