@@ -1,22 +1,20 @@
 Week 1  
-General goals when considering creating datasets is keeping things in a consistent manner to avoid issues in classification. This could also possibly be expanded by having data that may be hesitant such as specific dates be seperated into different values with only 1 key value needed as a minimum and further detailing done with optional elements similar to SQL primary key and secondary key interactions.
+General goals when considering creating datasets is keeping things in a consistent manner to avoid issues in classification. This could also possibly be expanded by having data that may be hesitant, such as specific dates, be separated into different values, with only 1 key value needed as a minimum, and further detailing done with optional elements similar to SQL primary key and secondary key interactions.
 
 Week 2  
-  Desire lines refer to when people make their own path through an area.    
-  Some considerations for PDAP can be architechtural choice, human effects, human reamins (litter)  
+  Desire lines refer to when people make their own path through an area. Some considerations for PDAP can be architectural choice, human effects, human remains (litter). In regards to ethics  
   Archaeology can be considered the study of duration rather than remains by comparing similarities across distances of time  
-  The PDF-to-text-based code seemed to work well enough but struggled with unfamilar or uncommon characters like Greek symbols and matricies, seems to be appropriate for solid text more commonly
+  The PDF-to-text-based code seemed to work well enough but struggled with unfamiliar or uncommon characters like Greek symbols and matrices; it seems to be appropriate for solid text more commonly recognized. This could also be an issue with the training data of the AI, so the whole situation isn't very applicable. In regard to connections to the readings, I feel as though certain aspects may be negligible when taking into consideration the gender of both the researcher and the subject of interest. I am specifically referring to situations where the aspects are so generalized and familiar to the average person that it's uniform in matters of being related to a specific gender, such as desire paths. The only issue I can then think of regarding this is that current perspectives change, and such a uniform action taken by everyone is now specifically for a certain gender. The opposite is also true; however, what is much more obvious to us is when the common aspect back then is now more a specific gender-focused matter, such as sexuality, chores, or strength-based tasks. For example, the bias around a lack of feminist perspective could directly remove how women had higher rights in Sparta compared to Athens in favour of the more masculine approach.
 
   Week 3
   Mapping software can help with large-scale visualization to be able to determine connections from multiple perspectives. There are many tools to help determine aspects like proximity, ease of travel, and elevation information in a malleable manner.
   Regarding the ethics of digital archeology, it seems the line is unclear and is currently at the stage in which crossing a line invites the discussion of it as it seems to say in https://doi.org/10.5334/bck.j "Failure to meet
-an organization’s code of ethics has few, if any, consequences under an aspira-
-tional system" with both ethical documents being unable to draw clear lines with solid examples.    
-  Gis is also a valuable mapping aspect to show both large scale area and correlation between their details when added to a map
+an organization’s code of ethics has few, if any, consequences under an aspirational system" with both ethical documents being unable to draw clear lines with solid examples.    
+  GIS is also a valuable mapping aspect to show both large-scale areas and correlations between their details when added to a map. The main benefit is visual correlation from a full perspective based on location. The data itself required for the situation requires a heavy amount of detail, though, such as the primary aspects of coordinates and shape in some situations (such as river and path outlines); then it can be further expanded with details to filter for aspects like expected age or wealth. This can then show people's preferences for certain locations when an altitude overlay is applied.
 
 Week 4  
 You can use a combination of materials, both basic and complex, to map a site (paper and measuring tape to LiDAR). Biases can also exist in datasets through both classification and organizational labelling. 
-Reading connections: the capability to approach this as we were, primarily as a site both seems to go with and against the readigns of this week. One of the points of the reading of different types of mapping is to consider the
+Reading connections: the capability to approach this as we were, primarily as a site both seems to go with and against the readings of this week. One of the points of the reading on different types of mapping is to consider the person and items/artifacts; however, this consideration also seems to separate the whole ethical aspect of the situation. Essentially, this was a person's stuff, compared to this being stuff that was around when this person was here. Especially considering how it's incredibly relevant to consider from an unbiased perspective, is the choice to separate person from item really the best idea for both ethical and correct counting situations?
 
   
 
