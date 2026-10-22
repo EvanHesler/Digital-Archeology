@@ -24,3 +24,5 @@ Might be better to just plot the points in SQL then use the GIS workshop applica
 Thesis could be about classification on which areas are best for which event taking into consideration how busy somthing is, intention, current usage, and acsess proximity (parking lot, road acsess, trail acsess)  
 https://library.carleton.ca/guides/help/gis-software = carleton GIS local
  
+dataset:  
+the feature variable is to allow flexibility beyond picnic tables for areas like the general path, desire paths, or on a area thats not declared (grass between areas)
