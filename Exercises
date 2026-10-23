@@ -67,5 +67,6 @@ infant_burials = linlithgow_burials.loc[linlithgow_burials['AGE_AT_DEATH'].isin(
 pre1500_both= pre1500.loc[pre1500['context'].isin([195,189]) = specific selection using the primary key conetxt. In this instance the pre1500 is a dataset that the code is checking from
 Note: We were not able to use the measurements for the graveyard, only the Lidar machine.
 It also seems to not handle being put into VS code very well and may need Jupyter notebook, first the issue was with installing the correct aspects, activating a virtual enviornment, then using full filenames including type within file calls.
+The majority of its code is in PDAP_Mappinf_attempt.py
 
 
