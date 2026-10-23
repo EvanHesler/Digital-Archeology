@@ -3,7 +3,7 @@
 #.venv\Scripts\activate
 #pip install pymupdf numpy matplotlib geopandas shapely ipywidgets ipympl ipykernel
 
-#this is an attempt using a single code file rather than the notebooks, Currently not working
+#this is an attempt using a single code file rather than the notebooks, Currently working, however It seems to create 3 images each time
 
 
 # Imports
