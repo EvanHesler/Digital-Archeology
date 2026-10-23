@@ -17,7 +17,7 @@ The images were taken October 3rd 15:00 however are not currently in Github due 
 
 
 Code attempt 1:  
-Currently, there are issues regarding creating a PDF result and the locations still need to be plotted onto the park map jpg
+Currently, there are issues regarding creating a PDF result and the locations still need to be plotted onto the park map jpg. This was later resolved after remembering to include the file type in the file call resulting in MapGrid.pdf
 
 Brainstorming:                  
 Might be better to just plot the points in SQL then use the GIS workshop application to format a map to idenity any additional ideas  
