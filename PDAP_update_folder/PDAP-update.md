@@ -37,7 +37,7 @@ Zone 1 grass good, all except 4
 
 
 Code attempt 1:  
-Currently, there are issues regarding creating a PDF result and the locations still need to be plotted onto the park map jpg. This was later resolved after remembering to include the file type in the file call resulting in MapGrid.pdf
+Currently, there are issues regarding creating a PDF result and the locations still need to be plotted onto the park map jpg. This was later resolved after remembering to include the file type in the file call resulting in MapGrid.pdf which will help with plotting points when GIS application is found.
 
 Brainstorming:                  
 Might be better to just plot the points in SQL then use the GIS workshop application to format a map to idenity any additional ideas  
