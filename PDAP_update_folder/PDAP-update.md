@@ -14,6 +14,26 @@ Notes:
 Picnic tables near the edge of the forest had less pines despite same quantity of pine needles on the ground nearby   
 the path between Zone 3-4 had the most damaged amount of grass    
 The images were taken October 3rd 15:00 however are not currently in Github due to it being around 15 photos meant for data gathering.
+The ovals represent how big, it is a literal piece of architectural design
+The geese are more active in zone 5 activities, more in that area
+
+Zone 4 more debris on tables (19/23) in the top half left (closer to edges). 1 desire path from main path by washroom to far zone 5
+
+Zone 4 has smoke remains and debris on inner tables; outer are clear; some tire tracks along area 4 main path (bikes)
+Zone 3 has significantly more families
+
+Zone 1 has debris but a significant amount for being such a clear area +moss on one's further from path. Also, desire paths between tables; not much diversion outside. No trash whatsoever. 1 Table missing half a plank. Also, a large quantity of kickable rocks present in no other area. Only desire path is connected directly to the path and is more like the first step
+ Zone 4 also has the long stretches of tables beside the path and edge
+
+Zone 4 and 5 had cracks in picnic table bases
+
+4 kickable rocks in zone 1 (not present in other areas) (supporting rest stop area where a kid would leave behind the rock they have been kicking)
+Edges and side path. Pretty much a lot of desire path from 4 to 5
+
+All generally have the equally spaced layout besides 4. Zone 4 also just has much more significant ground damage (no grass)
+
+Zone 1 grass good, all except 4
+
 
 
 Code attempt 1:  
