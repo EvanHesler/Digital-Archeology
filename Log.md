@@ -66,6 +66,60 @@ Dot or area blocks are most common for use on maps. Seems to declare the art of 
 reading 2: map quality is naturally subject to learned convention and the importance of it being present is more improtant than other aspects. Consdiering a map as a performance apperantly assists in negating biases. A second focus is treating humans and non humans as seperate allowing connections between the 2 to be done during analysis.The third focus seems to be taking into prior consideration with map experience as a "ethno-methodology" equating it to experience without implmentation. The fourth focus is recognizing that multiple perspectives exist". A comment on how to analyze later on comments on how using a light imagination can be used as proxies for theories to pursue when analyzing a map, such as following a person through what they expect the map may be.  
 
 
+date: 2026 11 04
+The link to the slides direvyly ise the words slides after the 3000 in the link. Maybe attempt a path finder spammer through kali
+Formula for reading = summarize a entire section, explain how  it is the case, explain why they made this
+There was a isntacne where there was slave trading and some had to be thrwon overboard and it was wether it should be cargo or person loss charge. Cargo won.
+Something about eugenics still being used. About getting a better population within a place. Theres also biohacking
+Khasemweset was around. 
+Nabonidus = last king of babylonian empire
+
+Roman antiquarians were primarily showing up and bringing neat stuff into one of your own places since you appreciate it more than where it always is. It also still  happens
+
+Sir hans SLoane = collector and such. A farmer nearby wanted to dig a well and found a theatre of Herulanium.
+
+Theres a line between grave robbing and archaeology. Primarily about analysis vs wanting to get some neat things like a painting for your room.
+
+Theres also intention like for wealth (trump) vs artistics goals (greeks and romans sometimes), the roman also tended to be less certain in their sculpture splaying mr potato head with some of the pieces of status. Also theyhve had ways of preserving statues for a while such as pouring a type of soda to strip paint from statues as the romans did
+
+The brutish museums = about britain in 19th century. THe benin bronzes were captured during a retribution attempt after a research got imprisoned. They also can fund theur efforts with things brought back for money or honour. Putting this into the museum outs something into the past and therefore reqlinqueshes it to not be a consideration in current times. Kinda making a competitive collecting time.
+
+Systemic archeology = Flinders Petrie was a better-paying archaeologist than his assistants providing assistance in some cases.
+
+Frameworks = First is culture and history in which you assemble the material culture. Next is processural which looks into overarching laws of human begavior, 
+Then there is post-processural = its about computing and laws, systems. However objectivity is impossible is the exaggerated idea. 
+Theory is a multivalued concept = 
+
+Petire = covers lots of material culture, believe in race and destiny, participated as invading race from north for egypt, collected human remains and sent to to england for study. He also looked into analysis of dead bodies which helped to develop tools for analysis. This shows there was developing statistics in early methods but it was associated with eugenics or other sources.
+Battleship curve = syriashian = everything introduced starts small, gets popular, then falls off so lesser production.
+
+Data detection and organization
+Seriation = counting based on frequencies, and pressence/absence. This can be ued for detecting oddities through the ground through things like pot shards. Note that this also assume the distribution is normal (around the mean). 
+Contextual seriation = graphlike and grid like.
+Superposition = you generally expect newer things to be closer to the surface. This also can imply layers, and a layer cannot be older than the oldenst artifiact within.  Keep in mind things like fills, structures, and cuts can influence layer shape and density.
+Haris matrix = looking at things from a side perspective and grouping based on layers while recognizing layers can go through other layers (overlap is writable), or the depth of multiple layers can be displayed reasonably visible.
+
+Data types
+Nominal data = categories without hierarchy (eye color , frequency distribution)
+Ordinal data = hierarchical categories (star rating, mean, median, mode)
+Interval data = quantitive data like temperature, volume, scale
+Ratio data =  similar to interval but 0 implies an absence (height)
+Chi square a type of test to determine independence of data types. However it seems to require there to be at least 5 examples per a cell. For quantitative variables, sum is a row variable.
+Degree of freedom = df = (r-1)(c-1) = rows and columns.
+Null hypothesis = means no association = and folllws a rule of that the chi squared value must be less than  a critical value or equal to the other value to be accepted. 
+X^2 = SumOf(O-E)/E. observed - expected.
+
+Graph point analysis = consider outcomes such as clustered, normal, random, or regular.
+You can measure distance between points manually using the Pythagorean theorem with the higher value point - the prior point for each axis. This becomes easier digitally as this can be directly applied onto points
+Such is an example = =SMALL(SQRT((C5:C12 - C5)^2 + (D5:D12 - D5)^2), 2)
+Type declaration = men observed distance / expected distance if random = (0-0.63 highly clustered), (0.63-1) clustered, (1.0-2.15) random, (2.15<) regular
+___________________________________________________readings
+
+
+
+
+
+
 
 
 
