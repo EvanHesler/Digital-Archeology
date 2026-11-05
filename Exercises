@@ -62,11 +62,28 @@ The site suggests swapping variables around; however, the variable type seems a 
 being found in autumn or that being the season of the burial.  
 It seems to be a coding language that doesnt use a print statement and just uses the name itself.  
 linlithgow_burials.loc[linlithgow_burials['LATEST_DATE']<1400] means from the linlithglow file its selecting the rows (loc) under column name latest date which are before the latest date of 1400. More options are capable by putting boolean operators beside each condition
-The burials usually had male and female together likely indicating the family or relatives were buried together (as in in one place. not all at once).
+The burials usually had males and females together, likely indicating the family or relatives were buried together (as in one place, not all at once).
 infant_burials = linlithgow_burials.loc[linlithgow_burials['AGE_AT_DEATH'].isin(['INFANT (0-5)'])]    infant_burials.groupby('GRAVE_SHAPE').count()    this code can be used to do math on the results of a search.
 pre1500_both= pre1500.loc[pre1500['context'].isin([195,189]) = specific selection using the primary key conetxt. In this instance the pre1500 is a dataset that the code is checking from
 Note: We were not able to use the measurements for the graveyard, only the Lidar machine.
 It also seems to not handle being put into VS code very well and may need Jupyter notebook, first the issue was with installing the correct aspects, activating a virtual enviornment, then using full filenames including type within file calls.
 The majority of its code is in PDAP_Mappinf_attempt.py
+
+
+Date: 2026-10-05     
+Topic: R
+Note: all written code are done through functions rather than the full language. It also seems to follow a similar idea to Haskell, as things like options can be set without being included in the same function call.
+Exercise 1:
+notable commands (mean, summary (all combined), addmargins (makes a xtabs into clear table), barplot,   
+data and view from the archdata and RcmdrMisc libraries displays the information in a table format with the type displayed above each column entry for easy reading and clarity.
+it seems to draw from the column
+Interestingly, it seems to follow an array-type style with entries of teh data having a break in each line for easier awareneess for formatting with labelling at what index each line starts on with 12 index's per row.
+the command print can be replicated by simply having brackets on the outside of the entire command on the line.
+It also seems to use the shorthand function commands in which you repeatedly run a function on a array and throw the results into a variable ((DP_CT <- xtabs(~Name+Blade.Sh, DartPoints)))
+The dataset of Mesolithic unfortunately uses shorthand for all variables/column variables / collumn vairbles.
+It seems difficult to discern between warning and failure ("Warning message in chisq.test(PitHouses$Orient, PitHouses$Form, correct = FALSE):")
+Exercise 2:
+
+
 
 
