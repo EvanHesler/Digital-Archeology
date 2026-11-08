@@ -83,6 +83,24 @@ It also seems to use the shorthand function commands in which you repeatedly run
 The dataset of Mesolithic unfortunately uses shorthand for all variables/column variables / collumn vairbles.
 It seems difficult to discern between warning and failure ("Warning message in chisq.test(PitHouses$Orient, PitHouses$Form, correct = FALSE):")
 Exercise 2:
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"2","fill","hole",,"CE",,"CE","","","","","","","",,,false,
+"1 AND 4","layer","",,"CE",,"CE","","","","","","","","above","2",false,false
+"7","layer","",,"CE",,"CE","","","","","","","","filled_by","2",false,false
+"9 AND 10","layer","",,"CE",,"CE","","","","","","","","below","7",false,false
+"3","layer","",,"CE",,"CE","","","","","","","","sealed_by","2",false,false
+"12 AND 11","layer","",,"CE",,"CE","","","","","","","","below","9 AND 10",false,false
+with the context of 1 and 4 are top layers, 3 was just below and was moved over after a pit of 2 was dug. Its possible that 7 was originally 2 and they swapped the placed while digging down as 7 was tossed to the side.
+everything else is simply below.  
+
+2. The outcome seems to be like this because it seems to be going down by layers with a structure of hole, then sides, then displacement, and then bottom of that hole. It then goes horizontally and down along that hole afterwards.
+5 and 6 both happen below the 4th layer so it treats that as a reason for diverging into 2 branches. The right branch is filled with fills since they are distinct layers that supposedly can't occur naturally, so must have been a pit, then filled, with different layers.
+It then uses 15 as a close of the branches with 16 to show 15 and 16 are the same layer even if seperated by the fills.
+
+3. the first link seems to show layers from a horizontal perspective. I would say the labelling has chosen to go a bit much into detail. I feel that putting too much detail takes away from the geogrpahic info the frawing is meant to represent even if it depicts the artifcats beneath. Providing alegen which coudl then link to a actual discussion or text of the image would prove much more clear and visialluy ad geiogrphically sensible to look at.
+Using the basic Harris matrix shows this well but I suppose it does take away from high level details like quality of the ground since the descriptions arent immediatley viewable as the names.
+For the second site, GPR means ground-penetrating radar. This implies to me that this might also be depth related. However without that information I just assumed it was a normal map so I dont see how this is a valid example of phasing. Instead somthing liek the topographjical effect used dueing a GIS migth eb valid with slightly different gradients of gray show elevation or depth to accurately display the GPR values.
+for the third one. It is a very goo dpoint to align the matrix result symmetrically however I cant help but feel that the encompassing layers lack the same quality as they are below any unique aspects within themself. This is pretty concerning for the layering which seems to seperate individualaspects from their values inside for the "Example of separate Phases numbered on a matrix, with explicit start and end dates recorded in an associated data table"
 
 
 
