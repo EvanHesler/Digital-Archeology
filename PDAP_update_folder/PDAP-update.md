@@ -47,3 +47,6 @@ It would probably be best to create expected circles over areas to show leaf den
  
 dataset:  
 the feature variable is to allow flexibility beyond picnic tables for areas like the general path, desire paths, or on a area thats not declared (grass between areas)
+
+possible resources
+https://opcug.ca/wp-content/uploads/Vincent-Massey-Park_Map_v2020.pdf
