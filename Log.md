@@ -108,7 +108,7 @@ Chi square a type of test to determine independence of data types. However it se
 Degree of freedom = df = (r-1)(c-1) = number of rows and columns -1 from each to find amount of information that may vary.
 Null hypothesis = means no association = and folllws a rule of that the chi squared value must be less than  a critical value or equal to the other value to be accepted. 
 X^2 = SumOf(O-E)/E. observed - expected.
-  expected value = (row total)(column total)/ setsize.  
+  expected value = (row total)(column total)/ grand total.  
 
 Graph point analysis = consider outcomes such as clustered, normal, random, or regular.
 You can measure distance between points manually using the Pythagorean theorem with the higher value point - the prior point for each axis. This becomes easier digitally as this can be directly applied onto points
