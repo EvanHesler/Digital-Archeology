@@ -16,5 +16,8 @@ Week 4
 You can use a combination of materials, both basic and complex, to map a site (paper and measuring tape to LiDAR). Biases can also exist in datasets through both classification and organizational labelling. 
 Reading connections: the capability to approach this as we were, primarily as a site both seems to go with and against the readings of this week. One of the points of the reading on different types of mapping is to consider the person and items/artifacts; however, this consideration also seems to separate the whole ethical aspect of the situation. Essentially, this was a person's stuff, compared to this being stuff that was around when this person was here. Especially considering how it's incredibly relevant to consider from an unbiased perspective, is the choice to separate person from item really the best idea for both ethical and correct counting situations?
 
+week 6  
+Datasets are generally a way to help correlate data through math to draw out more information. However, you have to be careful with programs, as they have strange default issues or unexpected calculations, such as Excel with dates. Meanwhile, there are visual programs as well to show an X-ray sort of organization for displaying depth of information and artifacts, which can be organized to show both correlation and phsyical space if done correctly.
+
   
 
