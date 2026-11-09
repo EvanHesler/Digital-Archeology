@@ -105,9 +105,10 @@ Ordinal data = hierarchical categories (star rating, mean, median, mode)
 Interval data = quantitive data like temperature, volume, scale
 Ratio data =  similar to interval but 0 implies an absence (height)
 Chi square a type of test to determine independence of data types. However it seems to require there to be at least 5 examples per a cell. For quantitative variables, sum is a row variable.
-Degree of freedom = df = (r-1)(c-1) = rows and columns.
+Degree of freedom = df = (r-1)(c-1) = number of rows and columns -1 from each to find amount of information that may vary.
 Null hypothesis = means no association = and folllws a rule of that the chi squared value must be less than  a critical value or equal to the other value to be accepted. 
 X^2 = SumOf(O-E)/E. observed - expected.
+  expected value = (row total)(column total)/ setsize.  
 
 Graph point analysis = consider outcomes such as clustered, normal, random, or regular.
 You can measure distance between points manually using the Pythagorean theorem with the higher value point - the prior point for each axis. This becomes easier digitally as this can be directly applied onto points
