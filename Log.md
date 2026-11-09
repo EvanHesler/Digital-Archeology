@@ -113,14 +113,15 @@ Graph point analysis = consider outcomes such as clustered, normal, random, or r
 You can measure distance between points manually using the Pythagorean theorem with the higher value point - the prior point for each axis. This becomes easier digitally as this can be directly applied onto points
 Such is an example = =SMALL(SQRT((C5:C12 - C5)^2 + (D5:D12 - D5)^2), 2)
 Type declaration = men observed distance / expected distance if random = (0-0.63 highly clustered), (0.63-1) clustered, (1.0-2.15) random, (2.15<) regular
-___________________________________________________readings
-data types displays = common options are flat tables or spreadsheets. 
-Excel = common and largely used in office settings and his easy to create equations in. However, its autofill and auto formatting can be a detriment when recording info. 
-CSV and TXT = malleable and easy to make. However, you are in control of the basic formatting controls, can have issues with comparing data, and may be inefficient
-JSON and XML = much more common in programming languages, commonly with more restrictive types. However, errors are easier to detect due to details having to follow specific rules when input.
-SQL = very proficient at catching type errors, has standard types, has very successful comparison or selection algorithms, and can run computations in a command. PostgreSQL and pgAdmin 4 are good candidates for their use.
-Graph databases = modelled by connections between aspects, such as a person can be James, and he has a hat. Each connection has edges and dont have to go both ways. (Graham)
-(Theorizing the digital) Digital archaeology is generally treated as a methodological approach rather than a field of its own. This is despite the applicability and range. The field also seems to suffer from improvement as there are many aspects that are added with some being less acknowledged. It also lacks a clear framework or set of ethics. GIS is an aspect of digital archaeology. At first, it was emphasized for quantitative focus and questioned the depth of technical use. A feminist GIS was also a focus to draw connections to analyze gendered spaces. There was also another wave to address empowerment, called participatory GIS, which is applied at the community level.
+___________________________________________________
+readings:  
+data types displays = common options are flat tables or spreadsheets.   
+Excel = common and largely used in office settings and his easy to create equations in. However, its autofill and auto   formatting can be a detriment when recording info.    
+CSV and TXT = malleable and easy to make. However, you are in control of the basic formatting controls, can have issues with comparing data, and may be inefficient  
+JSON and XML = much more common in programming languages, commonly with more restrictive types. However, errors are easier to detect due to details having to follow specific rules when input.  
+SQL = very proficient at catching type errors, has standard types, has very successful comparison or selection algorithms, and can run computations in a command. PostgreSQL and pgAdmin 4 are good candidates for their use.  
+Graph databases = modelled by connections between aspects, such as a person can be James, and he has a hat. Each connection has edges and dont have to go both ways. (Graham)  
+(Theorizing the digital) Digital archaeology is generally treated as a methodological approach rather than a field of its own. This is despite the applicability and range. The field also seems to suffer from improvement as there are many aspects that are added with some being less acknowledged. It also lacks a clear framework or set of ethics. GIS is an aspect of digital archaeology. At first, it was emphasized for quantitative focus and questioned the depth of technical use. A feminist GIS was also a focus to draw connections to analyze gendered spaces. There was also another wave to address   empowerment, called participatory GIS, which is applied at the community level.  
 
 
 
