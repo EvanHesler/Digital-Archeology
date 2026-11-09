@@ -67,12 +67,11 @@ reading 2: map quality is naturally subject to learned convention and the import
 
 
 date: 2026 11 04
-The link to the slides direvyly ise the words slides after the 3000 in the link. Maybe attempt a path finder spammer through kali
-Formula for reading = summarize a entire section, explain how  it is the case, explain why they made this
-There was a isntacne where there was slave trading and some had to be thrwon overboard and it was wether it should be cargo or person loss charge. Cargo won.
-Something about eugenics still being used. About getting a better population within a place. Theres also biohacking
-Khasemweset was around. 
-Nabonidus = last king of babylonian empire
+The link to the slides directly uses the words slides after the 3000 in the link. Maybe attempt a path finder spammer through Kali
+Formula for reading = summarize an entire section, explain how  it is the case, explain why they made this
+There was an instance where there was slave trading, and some had to be thrown overboard, and it was whether it should be cargo or person loss charge. Cargo won.
+Something about eugenics still being used, which means an unethical basis in archaeology's growth. About improving the population in a place. There's also biohacking nowadays.
+Nabonidus = last king of the Babylonian Empire
 
 Roman antiquarians were primarily showing up and bringing neat stuff into one of your own places since you appreciate it more than where it always is. It also still  happens
 
