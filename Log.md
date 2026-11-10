@@ -66,7 +66,7 @@ Dot or area blocks are most common for use on maps. Seems to declare the art of 
 reading 2: map quality is naturally subject to learned convention and the importance of it being present is more improtant than other aspects. Consdiering a map as a performance apperantly assists in negating biases. A second focus is treating humans and non humans as seperate allowing connections between the 2 to be done during analysis.The third focus seems to be taking into prior consideration with map experience as a "ethno-methodology" equating it to experience without implmentation. The fourth focus is recognizing that multiple perspectives exist". A comment on how to analyze later on comments on how using a light imagination can be used as proxies for theories to pursue when analyzing a map, such as following a person through what they expect the map may be.  
 
 
-date: 2026 11 04
+Date: 2026 11 04:   
 The link to the slides directly uses the words slides after the 3000 in the link. Maybe attempt a path finder spammer through Kali
 Formula for reading = summarize an entire section, explain how  it is the case, explain why they made this
 There was an instance where there was slave trading, and some had to be thrown overboard, and it was whether it should be cargo or person loss charge. Cargo won.
@@ -122,6 +122,94 @@ JSON and XML = much more common in programming languages, commonly with more res
 SQL = very proficient at catching type errors, has standard types, has very successful comparison or selection algorithms, and can run computations in a command. PostgreSQL and pgAdmin 4 are good candidates for their use.  
 Graph databases = modelled by connections between aspects, such as a person can be James, and he has a hat. Each connection has edges and dont have to go both ways. (Graham)  
 (Theorizing the digital) Digital archaeology is generally treated as a methodological approach rather than a field of its own. This is despite the applicability and range. The field also seems to suffer from improvement as there are many aspects that are added with some being less acknowledged. It also lacks a clear framework or set of ethics. GIS is an aspect of digital archaeology. At first, it was emphasized for quantitative focus and questioned the depth of technical use. A feminist GIS was also a focus to draw connections to analyze gendered spaces. There was also another wave to address   empowerment, called participatory GIS, which is applied at the community level.  
+
+
+Date: 2026 11 04:   
+Going viral = about spreading and becoming a topic of interest to them.
+
+Emergence = when a consequence of an action causes an effect on other aspects. A considerable example of this is the start of a traffic jam with someone just braking.
+Complicated vs complex = complicated is more a sum of all parts, while complex is closer to a collection of individual parts.
+Complex additive systems = the idea where local interactions look chaotic but go through a change based on the feedback of the environment or other actions, evolving it to a point of stability. This is essentially the concept that stands near mob mentality.
+
+Terms
+Network = graph with more information about nodes or edges
+Ego network = a network based around a single node.
+Knowledge graph/network = NoAQL method in which each edge ia  unique type of connection between nodes.
+Nodes = the things that do the acting in a network (people, objects)
+Unimodal/bimodal =one node or many nodes
+density=  ((n-n)-n) /2 = the count of all possible ties. (n=number of nodes)  . You assume things are undirected, meaning the number of connections is 2E when counting all edges connected to each node.
+Degree = the number of connections to a node
+Centrality = importance of a node. Things like degree centrality, betweenness centrality (acting as a stop to a destination), closeness centrality (distance to all other nodes), cluster coefficient (how connected neighbours are)
+Modularity  = to identify clumps of nodes
+Small world =a complex graph which is chaotic on observation but acts in an ordered manner
+Edge list = has one column called source and the other is target. However, the relationship applied by this doesn't necessarily stand on its own.
+
+In practice = you have the goal of translating visual connection into data.
+Jaccard index = something about A and B vs A or B. Missed it while trying to solve the network issue. Its about types in common/total types. This is to show percentage of similarities between sites.
+When comparing data you must be able to consider the relation of things and what they mean to each other in all terms of relation, from correlation to lack there of,
+Instantiation = looking at things from a real perspective (line of sight)
+
+Questions from the class?
+What relevance does going viral have to do with current time in relation to past. It would make more sense to be about how an idea could spread and analyzing that spread in modern times to draw an equivalent pattern to how it spreads to find a possible origin would be an interesting subject
+How do you determine complex vs complicated with little information or remnant information?
+Aren't all population graphs / social networking with more than a few people just small world graphs?
+Is it possible for some graphs to accidentally present centrality. Such as the harris matrix which might cause accidental ties.
+
+Questions
+Questions contextualized via lectures means? I got it from readings, but they are closely connected in their topic = own opinion of lecture
+How do we get errors in exercises and assignments? It just seems straightforward =
+What's the deal with the website aspects of the PDAP = email him
+For my PDAP would it be appropriate to identify oddities rather than going after all the picnic tables in each section? =
+
+Tasks
+https://networknavigator.jrladd.com/ 
+I have a feeling I dont quite understand the structure of all this since I cant include names and am not sure how to connect the values to eachother and have instead just ended up witha bunch of pairs instead of trying to get age lived based off gender
+
+(fail attempt of testing the waters)
+Person, Birth_Year, Death_Year, Family, Notes
+John Thompson,	1820,	1889,	Thompson, Patriarch, miller
+Mary Thompson,	1823,	1891,	Thompson,Wife of John
+Sarah Thompson,	1847,	1923,	Thompson,Eldest daughter
+Robert Thompson,1849,	1901,	Thompson, Son that took over mill
+James Thompson,	1851,	1934,	Thompson, Youngest son
+Alice Thompson,	1872,	1945,	Thompson, Robert’s wife
+
+(fail attempt of correlating date ranges to lifetime and person)
+source, target, name, weight
+1820,	1889, John Thompson, 79
+1823,	1891, Mary Thompson, 68
+1847,	1923, Sarah Thompson, 76
+1849,	1901, Robert Thompson, 52
+1851,	1934, James Thompson, 83
+1872,	1945, Alice Thompson, 73
+
+(works but unsure result)
+1820,1889,79
+1823,1891,68
+1847,1923,76
+1849,1901,52
+1851,1934,83
+1872,1945,73
+Maybe making it name to name and weight be connection type would make more sense to make a family tree.
+
+Error message 
+“Row 1 has 1 value.
+Line 1: source, target, name, weight
+For unweighted networks, your rows can have two or three values: source,target or source,target,weight. For weighted networks, each row must have three values: source,target,weight. Please edit your data and try again.”
+ Needed to remove spaces, and it also turns out that you don't include the names of variables
+__________________________________
+Excavation data practice with a table with 1 meaning present.
+To do this if an aspect is missing from both sites it is not part of possible options meaning the total options drop by 1 value each time that happens.
+J(A,c) = ¼
+J(A,d) = 0/4
+J(A,E) = 1/3
+_____________________________________________________________________
+readings:
+
+
+
+
+
 
 
 
