@@ -19,5 +19,8 @@ Reading connections: the capability to approach this as we were, primarily as a 
 week 6  
 Datasets are generally a way to help correlate data through math to draw out more information. However, you have to be careful with programs, as they have strange default issues or unexpected calculations, such as Excel with dates. Meanwhile, there are visual programs as well to show an X-ray sort of organization for displaying depth of information and artifacts, which can be organized to show both correlation and phsyical space if done correctly.
 
+Week 7
+Datasets drastically influence AI models in manners we cannot generally predict. This is based off how we would consider objects but the AI may consider the total aspect includign irreelevant data lke the background instead of the subject of focus. It is also incredibly important to consider how data connects together and what ties pieces of information together to make them connected in the way that correctly matters (eg. the name cannot be an aspect of correlation, as they are entirely distinct; however, a person would be a connecting factor. The concept applied by teh AI also applies to datasets in general with teh realtion being the most important part as this can influence the shape of the graph and the outputted layer when looking at things like centrality and others.  
+
   
 
