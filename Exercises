@@ -109,6 +109,12 @@ Note: all written code are done through functions rather than the full language.
 Exercise 1: It can be a bit difficult to determine the loss effect. While the lower the value is, the better and it indicates improvement over time, it's hard to tell whether that applies only to the same article of text or if it is another option. I noticed after observing 2/3 outcomes result in a higher loss value after the first instance is recorded.
 It's a very unique idea to be able to reverse the concept of classification to create the most generalized outcome. I can also cewrtainly attest to the use of riddle like speech used when provided into more casual approaches (when adjusting the prefix).  
 Exercise 2:
+Version1: I attempted to doa outside vs inside image class aspect. However my entire outside dataset was night based and I had a limited beige wall inside dataset. Given my current circumstance, my blue walls seemed to have influenced the model to only consider my current room to be outside as well. 
+Version2: I was unable to get the program to find the images.zip file. I managed to resolve this by adding a 
+from google.colab import files
+uploaded = files.upload()
+so that I could select the files to upload allowing me to continue after also renaimg the imported zip file. This then led to the issue of not being able to find the llm_clip thorugh the link. However using the link I found that the path remains alrgely the same however the python version has changed which breaks the link to get to the file to edit. However It also seems that following that path through leads to a folder which seems to imply the file may not be under that name anymore. It also does not seem to be the cli.py either as
+It seems it's supposed to be here:/usr/local/lib/python3.13/dist-packages, but there are no files directly called llm-clip and instead folders like lllm-clip-0.1.dist-info. But in the entry_points.txt it has the line clip = llm_clip, so perhaps the true file is actually called clip though that would cont match the METADATA file. Unofrtunately In the end I could not find the file
 
 
 
