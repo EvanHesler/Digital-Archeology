@@ -97,11 +97,18 @@ everything else is simply below.
 5 and 6 both happen below the 4th layer so it treats that as a reason for diverging into 2 branches. The right branch is filled with fills since they are distinct layers that supposedly can't occur naturally, so must have been a pit, then filled, with different layers.
 It then uses 15 as a close of the branches with 16 to show 15 and 16 are the same layer even if seperated by the fills.
 
-3. the first link seems to show layers from a horizontal perspective. I would say the labelling has chosen to go a bit much into detail. I feel that putting too much detail takes away from the geogrpahic info the frawing is meant to represent even if it depicts the artifcats beneath. Providing alegen which coudl then link to a actual discussion or text of the image would prove much more clear and visialluy ad geiogrphically sensible to look at.
-Using the basic Harris matrix shows this well but I suppose it does take away from high level details like quality of the ground since the descriptions arent immediatley viewable as the names.
-For the second site, GPR means ground-penetrating radar. This implies to me that this might also be depth related. However without that information I just assumed it was a normal map so I dont see how this is a valid example of phasing. Instead somthing liek the topographjical effect used dueing a GIS migth eb valid with slightly different gradients of gray show elevation or depth to accurately display the GPR values.
-for the third one. It is a very goo dpoint to align the matrix result symmetrically however I cant help but feel that the encompassing layers lack the same quality as they are below any unique aspects within themself. This is pretty concerning for the layering which seems to seperate individualaspects from their values inside for the "Example of separate Phases numbered on a matrix, with explicit start and end dates recorded in an associated data table"
+3. the first link seems to show layers from a horizontal perspective. I would say the labelling has chosen to go a bit much into detail. I feel that putting too much detail takes away from the geographic info the drawing is meant to represent, even if it depicts the artifacts beneath. Providing alegen which coudl then link to a actual discussion or text of the image would prove much more clear and visialluy ad geiogrphically sensible to look at.
+Using the basic Harris matrix shows this well, but I suppose it does take away from high-level details like quality of the ground since the descriptions aren't immediately viewable as the names.
+For the second site, GPR means ground-penetrating radar. This implies to me that this might also be depth-related. However, without that information, I just assumed it was a normal map, so I don't see how this is a valid example of phasing. Instead, somthing like the topographical effect used during a GIS might be valid, with slightly different gradients of gray showing elevation or depth to accurately display the GPR values.
+for the third one. It is a very good point to align the matrix result symmetrically; however, I can't help but feel that the encompassing layers lack the same quality, as they are below any unique aspects within themself. This is pretty concerning for the layering which seems to seperate individualaspects from their values inside for the "Example of separate Phases numbered on a matrix, with explicit start and end dates recorded in an associated data table"
 
+
+Date: 2026-11-08    
+Topic: AI 
+Note: all written code are done through functions rather than the full language. It also seems to follow a similar idea to Haskell, as things like options can be set without being included in the same function call.
+Exercise 1: It can be a bit difficult to determine the loss effect. While the lower the value is, the better and it indicates improvement over time, it's hard to tell whether that applies only to the same article of text or if it is another option. I noticed after observing 2/3 outcomes result in a higher loss value after the first instance is recorded.
+It's a very unique idea to be able to reverse the concept of classification to create the most generalized outcome. I can also cewrtainly attest to the use of riddle like speech used when provided into more casual approaches (when adjusting the prefix).  
+Exercise 2:
 
 
 
