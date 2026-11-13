@@ -132,34 +132,34 @@ Complicated vs complex = complicated is more a sum of all parts, while complex i
 Complex additive systems = the idea where local interactions look chaotic but go through a change based on the feedback of the environment or other actions, evolving it to a point of stability. This is essentially the concept that stands near mob mentality.
 
 Terms
-Network = graph with more information about nodes or edges
-Ego network = a network based around a single node.
-Knowledge graph/network = NoAQL method in which each edge ia  unique type of connection between nodes.
-Nodes = the things that do the acting in a network (people, objects)
-Unimodal/bimodal =one node or many nodes
-density=  ((n-n)-n) /2 = the count of all possible ties. (n=number of nodes)  . You assume things are undirected, meaning the number of connections is 2E when counting all edges connected to each node.
-Degree = the number of connections to a node
-Centrality = importance of a node. Things like degree centrality, betweenness centrality (acting as a stop to a destination), closeness centrality (distance to all other nodes), cluster coefficient (how connected neighbours are)
-Modularity  = to identify clumps of nodes
-Small world =a complex graph which is chaotic on observation but acts in an ordered manner
-Edge list = has one column called source and the other is target. However, the relationship applied by this doesn't necessarily stand on its own.
+Network = graph with more information about nodes or edges  
+Ego network = a network based around a single node.  
+Knowledge graph/network = NoAQL method in which each edge ia  unique type of connection between nodes.  
+Nodes = the things that do the acting in a network (people, objects)  
+Unimodal/bimodal =one node or many nodes  
+density=  ((n-n)-n) /2 = the count of all possible ties. (n=number of nodes)  . You assume things are undirected, meaning the number of connections is 2E when counting all edges connected to each node.  
+Degree = the number of connections to a node  
+Centrality = importance of a node. Things like degree centrality, betweenness centrality (acting as a stop to a destination), closeness centrality (distance to all other nodes), cluster coefficient (how connected neighbours are)  
+Modularity  = to identify clumps of nodes  
+Small world =a complex graph which is chaotic on observation but acts in an ordered manner  
+Edge list = has one column called source and the other is target. However, the relationship applied by this doesn't necessarily stand on its own.  
 
-In practice = you have the goal of translating visual connection into data.
-Jaccard index = something about A and B vs A or B. Missed it while trying to solve the network issue. Its about types in common/total types. This is to show percentage of similarities between sites.
-When comparing data you must be able to consider the relation of things and what they mean to each other in all terms of relation, from correlation to lack there of,
-Instantiation = looking at things from a real perspective (line of sight)
+In practice = you have the goal of translating visual connection into data.  
+Jaccard index = something about A and B vs A or B. Missed it while trying to solve the network issue. Its about types in common/total types. This is to show percentage of similarities between sites.  
+When comparing data you must be able to consider the relation of things and what they mean to each other in all terms of relation, from correlation to lack there of,  
+Instantiation = looking at things from a real perspective (line of sight)  
 
 Questions from the class?
-What relevance does going viral have to do with current time in relation to past. It would make more sense to be about how an idea could spread and analyzing that spread in modern times to draw an equivalent pattern to how it spreads to find a possible origin would be an interesting subject
-How do you determine complex vs complicated with little information or remnant information?
-Aren't all population graphs / social networking with more than a few people just small world graphs?
-Is it possible for some graphs to accidentally present centrality. Such as the harris matrix which might cause accidental ties.
-
-Questions
-Questions contextualized via lectures means? I got it from readings, but they are closely connected in their topic = own opinion of lecture
-How do we get errors in exercises and assignments? It just seems straightforward =
-What's the deal with the website aspects of the PDAP = email him
-For my PDAP would it be appropriate to identify oddities rather than going after all the picnic tables in each section? =
+What relevance does going viral have to do with current time in relation to past. It would make more sense to be about how an idea could spread and analyzing that spread in modern times to draw an equivalent pattern to how it spreads to find a possible origin would be an interesting subject  
+How do you determine complex vs complicated with little information or remnant information?  
+Aren't all population graphs / social networking with more than a few people just small world graphs?  
+Is it possible for some graphs to accidentally present centrality. Such as the harris matrix which might cause accidental ties.  
+ 
+Questions   
+Questions contextualized via lectures means? I got it from readings, but they are closely connected in their topic = own opinion of lecture  
+How do we get errors in exercises and assignments? It just seems straightforward =  
+What's the deal with the website aspects of the PDAP = email him  
+For my PDAP would it be appropriate to identify oddities rather than going after all the picnic tables in each section? =  
 
 Tasks
 https://networknavigator.jrladd.com/ 
