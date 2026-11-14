@@ -50,3 +50,10 @@ the feature variable is to allow flexibility beyond picnic tables for areas like
 
 possible resources
 https://opcug.ca/wp-content/uploads/Vincent-Massey-Park_Map_v2020.pdf
+
+________________________________________________________Nov 13 notes
+In turns out it is very difficult to create coordinates in a dataset to then put into a GIS
+instead I am opting to abandon the mapping method previously deployed and dierctly apply points through the GIS software
+this is the current link
+https://fieldmaps.arcgis.app/?itemID=74f7ca36b04f43d89716e76413dcd812&referenceContext=open&portalURL=https%3A%2F%2Fcarleton-u.maps.arcgis.com
+Currently : sections made, data needs to be added, Add high leaf zones to all areas, add clear tables as points, add rock entries at points, add trash nodes with descriptions of what it is, Also possible outline the paths as a layer
