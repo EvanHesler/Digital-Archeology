@@ -197,7 +197,7 @@ Error message
 Line 1: source, target, name, weight
 For unweighted networks, your rows can have two or three values: source,target or source,target,weight. For weighted networks, each row must have three values: source,target,weight. Please edit your data and try again.”
  Needed to remove spaces, and it also turns out that you don't include the names of variables
-__________________________________
+
 Excavation data practice with a table with 1 meaning present.
 To do this if an aspect is missing from both sites it is not part of possible options meaning the total options drop by 1 value each time that happens.
 J(A,c) = ¼
@@ -205,7 +205,9 @@ J(A,d) = 0/4
 J(A,E) = 1/3
 _____________________________________________________________________
 readings:
-
+Perry S encahantment of archeological record = about the enchantment of Archeology. Has a point about how arccheology is a finite source but then again it can just be a slowly renewable source if people are forgetful enough.
+Hugget J = brings up about the ethical issues of modern big data. Raises the question of whether fast is good or not, as slow data might just be resisting change or simply unable to quickly adapt to new environments like schooling. Also wehter should be a building block or simply information to use. It was also defined that slow data is the more thorughtful approach with more context rather than larger sample size. The main goal is about emphasizing ways of sustainability and a human approach to data collection in contemporary life.
+Magnani = Artifical intelligence = the main point is that there is a gap between scientific literature and AI material. The issue stems from training data and how perspectives from the path, both good and bad, are closely tied and integrated together, which allows the biases mentioned in previous readings to play a role in its outcome. The benefits of AI primarily consist of faster work, easier access to archaeological information, and a lower skill threshold to work in the field. Methods are in place such as safeguards for training data and output. Specifically in archaeology, it seems it's idneitifed sites, rock art, artifacts scatters, and rock layers (stratigraphy)
 
 
 
