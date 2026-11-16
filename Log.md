@@ -159,7 +159,7 @@ Questions
 Questions contextualized via lectures means? I got it from readings, but they are closely connected in their topic = own opinion of lecture  
 How do we get errors in exercises and assignments? It just seems straightforward =  
 What's the deal with the website aspects of the PDAP = email him  
-For my PDAP would it be appropriate to identify oddities rather than going after all the picnic tables in each section? =  
+For my PDAP would it be appropriate to identify oddities rather than going after all the picnic tables in each section? = waiting on answer from email
 
 Tasks
 https://networknavigator.jrladd.com/ 
@@ -205,8 +205,8 @@ J(A,d) = 0/4
 J(A,E) = 1/3
 _____________________________________________________________________
 readings:
-Perry S encahantment of archeological record = about the enchantment of Archeology. Has a point about how arccheology is a finite source but then again it can just be a slowly renewable source if people are forgetful enough.
-Hugget J = brings up about the ethical issues of modern big data. Raises the question of whether fast is good or not, as slow data might just be resisting change or simply unable to quickly adapt to new environments like schooling. Also wehter should be a building block or simply information to use. It was also defined that slow data is the more thorughtful approach with more context rather than larger sample size. The main goal is about emphasizing ways of sustainability and a human approach to data collection in contemporary life.
+Perry S encahantment of archeological record = about the enchantment of Archeology. Has a point about how arccheology is a finite source but then again it can just be a slowly renewable source if people are forgetful enough.   
+Hugget J = brings up about the ethical issues of modern big data. Raises the question of whether fast is good or not, as slow data might just be resisting change or simply unable to quickly adapt to new environments like schooling. Also wehter should be a building block or simply information to use. It was also defined that slow data is the more thorughtful approach with more context rather than larger sample size. The main goal is about emphasizing ways of sustainability and a human approach to data collection in contemporary life.   
 Magnani = Artifical intelligence = the main point is that there is a gap between scientific literature and AI material. The issue stems from training data and how perspectives from the path, both good and bad, are closely tied and integrated together, which allows the biases mentioned in previous readings to play a role in its outcome. The benefits of AI primarily consist of faster work, easier access to archaeological information, and a lower skill threshold to work in the field. Methods are in place such as safeguards for training data and output. Specifically in archaeology, it seems it's idneitifed sites, rock art, artifacts scatters, and rock layers (stratigraphy)
 
 
