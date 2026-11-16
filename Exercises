@@ -91,7 +91,8 @@ Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_
 "3","layer","",,"CE",,"CE","","","","","","","","sealed_by","2",false,false
 "12 AND 11","layer","",,"CE",,"CE","","","","","","","","below","9 AND 10",false,false
 with the context of 1 and 4 are top layers, 3 was just below and was moved over after a pit of 2 was dug. Its possible that 7 was originally 2 and they swapped the placed while digging down as 7 was tossed to the side.
-everything else is simply below.  
+everything else is simply below. Upon viewing the other diagrams and their setups, it occurs to me that this is not a time-based graph but geographical. Originally, I assumed somthing like fill was that a certain dated layer was filled into this hole, or somthing was moved, and a different layer filled it in. 
+But instead its goegrpahical as in layout.
 
 2. The outcome seems to be like this because it seems to be going down by layers with a structure of hole, then sides, then displacement, and then bottom of that hole. It then goes horizontally and down along that hole afterwards.
 5 and 6 both happen below the 4th layer so it treats that as a reason for diverging into 2 branches. The right branch is filled with fills since they are distinct layers that supposedly can't occur naturally, so must have been a pit, then filled, with different layers.
