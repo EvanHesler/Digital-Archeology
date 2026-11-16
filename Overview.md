@@ -5,6 +5,8 @@ Overview reccomendations and goal
 - what does the exercise do? where are the moments where my decisions about definitions and questions and so on matter?
 
 
+  
+
 
 Week 1  
 General goals when considering creating datasets is keeping things in a consistent manner to avoid issues in classification. This could also possibly be expanded by having data that may be hesitant, such as specific dates, be separated into different values, with only 1 key value needed as a minimum, and further detailing done with optional elements similar to SQL primary key and secondary key interactions.
