@@ -205,6 +205,56 @@ J(A,d) = 0/4
 J(A,E) = 1/3
 _____________________________________________________________________
 readings:
+
+
+
+
+Date: 2026 11 18:     
+WEEK 8  
+Topic: AI  
+Notes:  
+Bartlett = some architecture person who designed carleton  
+Space syntax = gives a way to examine how social life is lived in these places  
+People try to shape architecture with different styles to impose a feeling on those within or when observing. 
+Brasilia example = layers of passages planned out  
+Ivoist = can be seen from any point  
+Axial space = straight-line visibility   
+Integration = version of shortest path  
+Choice  = about flow of things like cars or people  
+Depth = order/steps to reach a certain point. Kind of like Breadth-first search BFS.  
+
+Graphing architecture = a visual display of depth in which from a string point entrance) you reach a room which can go to other rooms, and the rooms right beside a room are on the same layer.  
+
+A neural network = mainly in place with Ai with 3 different layers like input, hidden, and output. Hidden is all the   processing to figure out what to say.  
+Reinforcement reinforces learning processes and connections to stimuli.    
+It is capable of being adjusted, but by how much is the issue    
+Supervised = know the categories you area after  
+Unsupervised = you dont know the categories  
+Is was trained by some person using a list from harvard as part of a basis for nouns  
+Types  
+LLM = large language model = has the goal of making something that looks correct and not necxessarily is true.
+Convolutional neural network (CNN) = mainly meant for grids.  
+Adversarial networks = you work with 2 models: one trying to reach peak correctness while the other is developing fake versions. They compete to improve themselves.  
+Training types  
+There are instances of AI being trained on image descriptions, which caused issues because it grabbed descriptions used by search engines rather than the images themselves.  
+
+Practical necromancy  
+You can look for patterns in data to find base/training data.   
+Prof also mentions how there was a dataset where First Nations wasn't an aspect of the image dataset; however, when indian was used, it was able to pull up a significant amount of images.  
+
+Henry Maloison = had a brain injury and could only develop short-term memory (no new long-term). He is somewhat comparable to an AI, as they only have knowledge up to a certain context.  
+  
+ELIZA effect = there was a guy interested in symbolic language. He created a chatbot as a toy for systems. It focused on transforming the input back into a question similar to a therapist.  
+Turing = decided that a machine was good enough if they could pass as a person.  
+The point of the ELIZA effect is that we interpret text as a person since we are used to the concept of words having a meaning written by a intelligent being.  
+
+Options for AI are god (do everything), intern (follow steps and research), or cogs (do one thing well). Cogs is most preferable according to the prof.  
+
+A method of research is using a model to ask a question to many. By merging a variety of options and perspectives from a certain demographic it can be reflective of those involved, such as the British news population. This is done by turning the creativity down on the AI models.   
+
+
+________________________________________________________________
+READINGS:
 Perry S encahantment of archeological record = about the enchantment of Archeology. Has a point about how arccheology is a finite source but then again it can just be a slowly renewable source if people are forgetful enough.   
 Hugget J = brings up about the ethical issues of modern big data. Raises the question of whether fast is good or not, as slow data might just be resisting change or simply unable to quickly adapt to new environments like schooling. Also wehter should be a building block or simply information to use. It was also defined that slow data is the more thorughtful approach with more context rather than larger sample size. The main goal is about emphasizing ways of sustainability and a human approach to data collection in contemporary life.   
 Magnani = Artifical intelligence = the main point is that there is a gap between scientific literature and AI material. The issue stems from training data and how perspectives from the path, both good and bad, are closely tied and integrated together, which allows the biases mentioned in previous readings to play a role in its outcome. The benefits of AI primarily consist of faster work, easier access to archaeological information, and a lower skill threshold to work in the field. Methods are in place such as safeguards for training data and output. Specifically in archaeology, it seems it's idneitifed sites, rock art, artifacts scatters, and rock layers (stratigraphy)
