@@ -70,7 +70,7 @@ It also seems to not handle being put into VS code very well and may need Jupyte
 The majority of its code is in PDAP_Mappinf_attempt.py
 
 
-Date: 2026-10-05     
+Date: 2026-11-02     
 Topic: R
 Note: all written code are done through functions rather than the full language. It also seems to follow a similar idea to Haskell, as things like options can be set without being included in the same function call.
 Exercise 1:
