@@ -207,11 +207,11 @@ _____________________________________________________________________
 readings:
 Brughams = there exist primary issues in network. But I am not willing to pay 10 dollars to read this.
 Agent-based modelling = "At the core of every simulation is a model—a simplified representation of a real-world system," and it's also based on a set of assumptions. Also Emergence is a term for  hidden result of such methods being apparent. There are also multiple methods from which are listed below
-    (1) simula-tions as a technique used to investigate the detailed dynamics of asystem; 
-    (2) simulations as a heuristic tool for developing hypoth-eses, models, and theories; 
-    (3) simulations as a substitute for anexperiment when performing it is unfeasible or not practical; 
-    (4)simulations as a tool for experimentalists used to support empir-ical experiments;    
-    (5) simulations as a pedagogical toolallowing students and wider audiences to gain understanding of a process
+    (1) simula-tions as a technique used to investigate the detailed dynamics of asystem;      
+    (2) simulations as a heuristic tool for developing hypoth-eses, models, and theories;     
+    (3) simulations as a substitute for anexperiment when performing it is unfeasible or not practical;    
+    (4)simulations as a tool for experimentalists used to support empir-ical experiments;        
+    (5) simulations as a pedagogical toolallowing students and wider audiences to gain understanding of a process    
 I believe 5 is the most common instance. 4 and 3 is most common for building or theoretical constructions practices. While 1 and 2 are more applicable in a archietechtual setting by simulating the past. However its important to note that in the later readings that its very important to be able to have a proper dataset, and that is nearly impossible for past aspects and therefore must be based off the present meaning a true simulation is even less feasible than current ones by a likely significant margin.
 
 
