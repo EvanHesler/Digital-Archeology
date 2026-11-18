@@ -203,10 +203,10 @@ To do this if an aspect is missing from both sites it is not part of possible op
 J(A,c) = ¼
 J(A,d) = 0/4
 J(A,E) = 1/3
-_____________________________________________________________________
-readings:
-Brughams = there exist primary issues in network. But I am not willing to pay 10 dollars to read this.
-Agent-based modelling = "At the core of every simulation is a model—a simplified representation of a real-world system," and it's also based on a set of assumptions. Also Emergence is a term for  hidden result of such methods being apparent. There are also multiple methods from which are listed below
+_____________________________________________________________________      
+readings:         
+Brughams = there exist primary issues in network. But I am not willing to pay 10 dollars to read this.     
+Agent-based modelling = "At the core of every simulation is a model—a simplified representation of a real-world system," and it's also based on a set of assumptions. Also Emergence is a term for  hidden result of such methods being apparent. There are also multiple methods from which are listed below       
     (1) simula-tions as a technique used to investigate the detailed dynamics of asystem;      
     (2) simulations as a heuristic tool for developing hypoth-eses, models, and theories;     
     (3) simulations as a substitute for anexperiment when performing it is unfeasible or not practical;    
